@@ -1,0 +1,15 @@
+FeatureKeywords:string:monitor:farfield:single freq, modeler:model:anchorpoints, DELETERESULTS:M0P0, modeler:variables:rebuild, modeler:variables:fullrebuild, model:layerstacking:automatic, mesh::background::boolean, meshloading:problem_class_only, mesh:workflow:nru, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh::attributes:rstepw, mesh:lib:blsurf, solver:hf:fd:task:1, monitor:resultfilemap:load, la:precond:pdss5, DenseInitDangerousDim, monitor:resultfilemap:save, la:iterative, la:parallel_excitation:block, solver:hf:fd:samples:19, background:normal, boundary:expanded open:xmax, boundary:expanded open:xmin, boundary:expanded open:ymax, boundary:expanded open:ymin, boundary:expanded open:zmax, boundary:expanded open:zmin, boundary:open:ConvPML, lineqssolver:setting:acceleratedrestart, material:disp:eps, material:disp:modelnth, mesh:tet, mesh:tet:autocurvature, mesh:tet:curved, mesh:tet:curved:3, monitor:3D:freq, monitor:e-field, monitor:power:1d, solver:hf:fd, solver:hf:fd:generalpurpose:tet, solver:hf:fd:order:2, solver:hf:fd:portloss, source:waveguide port:active, source:waveguide port:inhomogeneous, source:waveguide port:internal port, units:Capacitance:F, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:H, units:Length:mm, units:Resistance:Ohm, units:Temperature:Kelvin, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:unnorm, solver:pp:sparameter:calcyz, solver:pp:sparameter:calcvswr, solver:pp:sparameter:updatebalance, SMatrix:NCutoffs, modeler:model:anchorpoints:saving, solver:pp:farfield:tet:interpolate2hex, front:femesh3dreader:readbc3file, meshloading:tet_complete, acceleration:cpu:1, acceleration:mpi:0, lineqssolver:setting:auto, lineqssolver:setting:treecotree, mesh:tet:adaptive, solver:pp:farfield:2d, solver:pp:farfield:1d, solver:hf:fd:task:15, solver:hf:fd:sweep:convchecktask, modeler:model:anchorpoints:loading, modeler:load:fastloading, modeler:variables:fastrebuild, solver:hf:fd:samples:25
+LastWorkflowState:string:tetmesh:success
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:948
+solver_hf_tet_fd/MaxResidentSizeInMB:int:637
+solver_hf_tet_fd/MaxResidentSizeMiB:int:788
+solver_hf_tet_fd/MinFreePhysicalInMB:int:430
+solver_pp/InitialFreePhysicalInMB:int:727
+solver_pp/MaxResidentSizeInMB:int:26
+solver_pp/MaxResidentSizeMiB:int:13
+solver_pp/MinFreePhysicalInMB:int:708
+tetmesh/InitialFreePhysicalInMB:int:463
+tetmesh/MaxResidentSizeInMB:int:69
+tetmesh/MaxResidentSizeMiB:int:74
+tetmesh/MinFreePhysicalInMB:int:403
+---

@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2020.0 - Sep 25 2019 - ACIS 29.0.1 -
+[Author]
+user
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:pranti_attempt.cst?b1ec9dae2662b8ef363979f59470d6a6?11884:numberofparameters=8:port=1>mode=1>zre=0>zim=0:::s1?wp?hc?lf?wf?hs?ls?ws
+[Comment]

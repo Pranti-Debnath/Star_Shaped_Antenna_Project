@@ -1,0 +1,29 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 11:19 AM Wednesday, 15. March 2023
+
+  Evaluating 'Max Gain at selected Frequency': 0 s
+
+  Total time: 0 s  ( = 0 h, 0 m, 0 s )
+
+Template based postprocessing finished at: 11:19 AM Wednesday, 15. March 2023
+----------------------------------------------------------------------------------------
+Template based postprocessing started at: 11:38 AM Wednesday, 15. March 2023
+
+  Evaluating 'Max Gain at selected Frequency': 0 s
+  Evaluating 'Max Gain at selected Frequency_1': 1 s
+  Evaluating 'Max Gain at selected Frequency_2': 0 s
+
+  Total time: 2 s  ( = 0 h, 0 m, 2 s )
+
+Template based postprocessing finished at: 11:38 AM Wednesday, 15. March 2023
+----------------------------------------------------------------------------------------

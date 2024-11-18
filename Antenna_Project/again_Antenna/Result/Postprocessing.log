@@ -1,0 +1,22 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 08:08 PM Wednesday, 18. January 2023
+
+  Evaluating 'Max Gain at selected Frequency': 1 s
+  Evaluating 'Max Gain at selected Frequency_1': 0 s
+  Evaluating 'Gain (IEEE) at const phi=0 for 5x5 array (array factor)': 6 s
+  Evaluating 'Gain (IEEE) at const phi=0 for 5x5 array (array factor)_1': 6 s
+
+  Total time: 14 s  ( = 0 h, 0 m, 14 s )
+
+Template based postprocessing finished at: 08:08 PM Wednesday, 18. January 2023
+----------------------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2020.0 - Sep 25 2019 - ACIS 29.0.1 -
+[Author]
+user
+[Mesh Cells]
+61,871
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Frequency Domain
+[Last Solver Type Abb]
+f
+[Results]
+Frequency Domain: S-Parameter
+[Modeler Unique ID]
+5:new1_fractal_antenna.cst?0f562c77b0c8b64d5f2c658b04384c5e?24781:numberofparameters=8:port=1>mode=1>zre=0>zim=0:::hc?hs?lf?ls?s1?wf?wp?ws
+[Comment]

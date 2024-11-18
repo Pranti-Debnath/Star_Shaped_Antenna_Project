@@ -1,0 +1,45 @@
+{
+    "parameters": [
+        {
+            "expr": "20",
+            "name": "ws",
+            "value": "20"
+        },
+        {
+            "expr": "19.96",
+            "name": "ls",
+            "value": "19.96"
+        },
+        {
+            "expr": "0.8",
+            "name": "hs",
+            "value": "0.8"
+        },
+        {
+            "expr": "2.8",
+            "name": "wf",
+            "value": "2.8"
+        },
+        {
+            "expr": "9",
+            "name": "lf",
+            "value": "9"
+        },
+        {
+            "expr": "0.035",
+            "name": "hc",
+            "value": "0.035"
+        },
+        {
+            "expr": "8.4",
+            "name": "wp",
+            "value": "8.4"
+        },
+        {
+            "expr": "0.4",
+            "name": "s1",
+            "value": "0.4"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,240 @@
+15/Mar/2023 03:30:28  Build version: 2020.0 Release from 2019-09-25 (change 724524)
+
+15/Mar/2023 03:30:28  Starting adaptive port meshing.
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:30:28  Mode calculation for port 1:
+                      
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:30:35  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:30:35  Using electric shielding for port 1.
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:30:35  Port mode solver: Detected dispersive material(s) at port 1. 
+                      Using a constant approximation of dispersive material(s) at 30 GHz and neglecting loss terms.  More...
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:30:36    -------------------------------- F-Calc 30 ---------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      QTEM        322           1.61e-007     45.5          ---
+                        ----------------------------------------------------------------------------
+                      
+15/Mar/2023 03:30:37  Pass 1 successfully completed. 
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:30:52    -------------------------------- F-Calc 30 ---------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      QTEM        331           1.62e-007     45.7          ---
+                        ----------------------------------------------------------------------------
+                      
+15/Mar/2023 03:30:53  Pass 2 successfully completed. Delta (Line Imp.): 0.42%
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:31:25  *** Warning ***
+                      
+15/Mar/2023 03:31:25  170 mesh edges are partially filled with PEC.
+                       More...
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:31:28    -------------------------------- F-Calc 30 ---------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      QTEM        340           7.03          45.7          ---
+                        ----------------------------------------------------------------------------
+                      
+15/Mar/2023 03:31:30  Pass 3 successfully completed. Delta (Line Imp.): 0.11%
+15/Mar/2023 03:31:30  Adaptive port meshing finished. 
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:31:30  The following farfield monitor(s) have been adjusted to model box [-10.0824,
+                      10.0824, -0.499654, 20.0824, -0.904424, 4.05254].
+                        farfield (f=20), farfield (f=30), farfield (f=40). More...
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:31:30  
+                      Solver started at: 03:31 AM Wednesday, 15. March 2023 (Bangladesh Standard Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2020.0 Release from 2019-09-25 (change 724524)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:31:30  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:31:30  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:26  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 4
+                            Number of calculation domains used: 7
+                      
+                         Used point accuracy enhancement value: 75.00%.
+                         Used point accuracy enhancement value: 0.00%.
+                         PBA fill limit: 86.12% (inverse)
+
+15/Mar/2023 03:30:39     *** Warning ***  current system memory usage reached 85%
+
+15/Mar/2023 03:31:04     *** Warning ***  current system memory usage reached 90%
+
+15/Mar/2023 03:31:09     *** Warning ***  current system memory usage reached 95%
+
+15/Mar/2023 03:31:36     *** Warning ***  current system memory usage reached 85%
+
+15/Mar/2023 03:31:39     *** Warning ***  current system memory usage reached 90%
+
+15/Mar/2023 03:32:40     *** Warning ***  current system memory usage reached 90%
+
+15/Mar/2023 03:31:33     *** Warning ***  current system memory usage reached 85%
+
+15/Mar/2023 03:31:37     *** Warning ***  current system memory usage reached 90%
+
+15/Mar/2023 03:32:43     *** Warning ***  current system memory usage reached 90%
+
+15/Mar/2023 03:32:32     *** Warning ***  current system memory usage reached 85%
+
+15/Mar/2023 03:32:41     *** Warning ***  current system memory usage reached 90%
+
+
+15/Mar/2023 03:33:30  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:30  Using electric shielding for port 1.
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:31  Port mode solver: Detected dispersive material(s) at port 1. 
+                      Using a constant approximation of dispersive material(s) at 30 GHz and neglecting loss terms.  More...
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:32  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: expanded open, 4 Layer, depth 1.84092 mm
+                        Xmax: expanded open, 4 Layer, depth 1.84092 mm
+                      
+                        Ymin: expanded open, 4 Layer, depth 1.99862 mm
+                        Ymax: expanded open, 4 Layer, depth 1.84092 mm
+                      
+                        Zmin: expanded open, 4 Layer, depth 1.8436 mm
+                        Zmax: expanded open, 4 Layer, depth 1.99862 mm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:32  Frequency settings: 
+                      
+                        Fmin:         20
+                        Fmax:         40
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:32  Field update statistics:
+                      
+                        Number of components in total: 	5078843
+                        Number of TST elements:		4567
+                        Number of disp. elements:		487064
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:33:32  Waveguide boundaries:
+                      
+15/Mar/2023 03:33:32  Port: 1
+                      
+15/Mar/2023 03:33:32    -------------------------------- F-Calc 30 ---------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      QTEM        322           1.61e-007     45.7          ---
+                        ----------------------------------------------------------------------------
+                      
+15/Mar/2023 03:39:07  
+                      --------------------------------------------------------------------------------
+15/Mar/2023 03:39:07  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:39:07  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:39:07  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     19208                         906400       906400       
+                        Matrices calc.      854542                        902343       330078       
+                        Solver run total    428472                        940048       360848       
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	DESKTOP-SI2PIOG 
+                      
+                           Number of CPU threads:               4
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	828630
+                        Excitation duration:              	3.55454875e-001 ns 
+                        Calculation time for excitation:  	116 	s
+                        Number of calculated pulse widths:	2.59784 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	7881 
+                        Maximum number of time steps:     	60673 
+                        Time step width:
+                           without subcycles:             	1.17169714e-004 ns
+                           used:                          	1.17169714e-004 ns
+                      
+                        CAD preparation time:             	1      	s
+                        Matrix calculation time:          	115 	s
+                        Solver setup time:                	8 	s
+                        Solver loop time:                 	329 	s
+                        Solver post processing time:      	2 	s
+                                                          	------------
+                        Total solver time:                	455 	s  ( = 0 h, 7 m, 35 s )
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:39:07  
+                        Adaptive port meshing time:          	64     	s  ( = 0 h, 1 m, 4 s )
+                        Total solver time (all cycles):      	455    	s  ( = 0 h, 7 m, 35 s )
+                        solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	521    	s  ( = 0 h, 8 m, 41 s )
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:39:07  Solver finished at: 03:39 AM Wednesday, 15. March 2023
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Mar/2023 03:39:12  Creating parametric 1D results for Run ID 1
+                      
+                      ------------------------------------------------------------------------------

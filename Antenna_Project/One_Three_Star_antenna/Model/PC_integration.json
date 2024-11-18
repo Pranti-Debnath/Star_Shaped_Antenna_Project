@@ -1,0 +1,56 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "ws",
+         "type": "float",
+         "value": 20.0
+      },
+      {
+         "name": "ls",
+         "type": "float",
+         "value": 20.0
+      },
+      {
+         "name": "hs",
+         "type": "float",
+         "value": 0.787
+      },
+      {
+         "name": "wf",
+         "type": "float",
+         "value": 2.8
+      },
+      {
+         "name": "lf",
+         "type": "float",
+         "value": 8.4
+      },
+      {
+         "name": "hc",
+         "type": "float",
+         "value": 0.035
+      },
+      {
+         "name": "wp",
+         "type": "float",
+         "value": 8.4
+      },
+      {
+         "name": "s1",
+         "type": "float",
+         "value": 0.4
+      }
+   ],
+   "outputVariables": [
+      {
+         "len": 1,
+         "name": "3D\\Max Gain at selected Frequency",
+         "type": "float",
+         "value": 5.259991406246208
+      }
+   ]
+}

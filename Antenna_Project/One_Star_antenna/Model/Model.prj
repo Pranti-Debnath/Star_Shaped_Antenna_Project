@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2020.0 - Sep 25 2019 - ACIS 29.0.1 -
+[Author]
+user
+[Mesh Cells]
+828,630
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:one_star_antenna.cst?edd91b7c2a202e6ea675717fc3ed6b84?11941:numberofparameters=7:port=1>mode=1>zre=0>zim=0:::hc?hs?lf?ls?wf?wp?ws
+[Comment]

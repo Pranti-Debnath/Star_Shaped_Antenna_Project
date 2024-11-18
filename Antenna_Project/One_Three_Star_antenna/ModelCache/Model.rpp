@@ -1,0 +1,50 @@
+9
+0
+0
+4
+Gain (IEEE),Phi=0.0
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+4
+Gain (IEEE),Phi=0.0\f=20
+Gain (IEEE),Phi=0.0\f=27.06
+Gain (IEEE),Phi=0.0\f=30
+Gain (IEEE),Phi=0.0\f=40
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+4
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=20
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=27.06
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=30
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=40
+Gain (IEEE),Phi=0.0_1
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+4
+Gain (IEEE),Phi=0.0_1\f=20
+Gain (IEEE),Phi=0.0_1\f=27.06
+Gain (IEEE),Phi=0.0_1\f=30
+Gain (IEEE),Phi=0.0_1\f=40
+Max Gain at selected Frequency
+Farfield Result
+1
+0D
+Farfield and Antenna Properties
+P
+ED10
+1
+Max Gain at selected Frequency
+0

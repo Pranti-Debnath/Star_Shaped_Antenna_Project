@@ -1,0 +1,14 @@
+[19:51:28] -------- TetMesher Log --------
+[19:51:28] Build: 64bit; Number: 20190925; ID: 2020.0 Release from 2019-09-25 (change 724524); Date: 2019-09-25
+[19:51:28] ACIS version: 29.0.1
+[19:51:28] SPAresabs = 9.9999999999999995e-07
+[19:51:28] SPAresnor = 1.0000000000000000e-10
+[19:51:28] Adaptive mesh refinement (pos.snap.)
+[19:51:28] - Refining mesh
+[19:51:28] Problem class: High Frequency
+[19:51:41] - OK
+[19:51:41] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[19:51:41] Done
